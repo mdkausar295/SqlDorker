@@ -1,4 +1,4 @@
-# SqlDorkerV1.2
+# kausarhdzxczxh1.2
 
 <h2>#Requirements</h2>
 
@@ -12,3 +12,4 @@ pip install pool<br>
  or<br>
  if you have dork list:<br>
  Python SqlDorkerV1.2.py dorklist.txt
+git clone https://github.com/mdkausar295/SqlDorker
